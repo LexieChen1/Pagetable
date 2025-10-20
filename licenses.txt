@@ -1,0 +1,13 @@
+I considered the following software licenses before choosing one for this project:
+
+1. **GNU General Public License (GPL v3)**
+   - The GPL requires that any software using or modifying GPL-licensed code must also be released under the GPL. It guarantees user freedom but restricts proprietary reuse.
+   - I decided against it because this project is educational, and I wanted others to freely use and modify it without the requirement to open-source derivative work.
+
+2. **Apache License 2.0**
+   - The Apache License allows commercial and private use, modification, and distribution with proper attribution and a notice of changes. It also provides an explicit grant of patent rights.
+   - I liked its clarity and legal protection, but it felt more complex than necessary for a small academic project.
+
+3. **MIT License**
+   - The MIT License is short, permissive, and allows anyone to use, copy, modify, merge, or distribute the software with minimal restrictions, as long as attribution is included.
+   - I chose the MIT License because it is simple, widely used in open-source academic and educational projects, and fits the learning and sharing purpose of this assignment.
